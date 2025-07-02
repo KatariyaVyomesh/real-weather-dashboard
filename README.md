@@ -94,6 +94,7 @@ With color-coded air quality levels:
 📍 Ahmedabad, Gujarat, India  
 📧 mr.vyomesh.katariya@gmail.com  
 🌐 [Portfolio Website](https://katariyavyomesh.github.io/vyomesh-portfolio)  
+[![View Dashboard](https://img.shields.io/badge/PowerBI-View%20Live%20Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/groups/me/reports/3303b153-cd0d-49d3-adc9-9e7a42dc40da/161b5149c033bb0c51c5?experience=power-bi&bookmarkGuid=1fef1e05020a9010b2da)
 
 ---
 
