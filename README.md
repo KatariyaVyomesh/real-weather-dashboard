@@ -1,6 +1,6 @@
 # 🌤️ Real-Time Weather Forecast Dashboard using Weather API
 
-![Dashboard Preview](https://your-image-link-if-any.com) <!-- Optional: Add a preview image -->
+![Dashboard Preview](Images/report.png)
 
 ## 📌 Project Description
 
@@ -85,7 +85,9 @@ With color-coded air quality levels:
 6. Customize colors based on AQI scale using conditional formatting
 
 ---
+![Dashboard Preview](Images/overview.png)
 
+---
 ## 👨‍💻 Author
 
 **Vyomesh Katariya**  
