@@ -101,8 +101,6 @@ With color-coded air quality levels:
 
 👉 [GitHub Link](https://github.com/katariyavyomesh/real-weather-dashboard)
 
-> *(Update with actual repo link if different)*
-
 ---
 
 ## 🙏 Acknowledgements
